@@ -10,7 +10,7 @@ $PluginCategory = "vSphere"
 # Please Specify the address (and optional port) of the vCenter server to connect to [servername(:port)]
 $Server = "vcenterserver.manchester.ac.uk"
 # Please Specify the user for the vCenter server connection
-$User = "vmware_read_only@localdomain.uk"
+$User = "vmware_read_only@mydomain.local"
 $CISUser = "Administrator@vsphere.local"
 # End of Settings
 
