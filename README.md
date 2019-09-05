@@ -15,7 +15,6 @@
 
 [Join the VMware Code and #vCheck channel on slack and ask questions here!](https://code.vmware.com/slack/)
 
-![Alt text](https://virtualfrog.files.wordpress.com/2019/07/screenshot-2019-07-09-at-21.49.45.png "vCheck Sample")
 
 |Navigation|
 |-----------------|
@@ -35,11 +34,11 @@
 # Fork information
 [*Back to top*](#Title)
 
-This is a fork of the awesome vCheck Daily Report. The below text is unchanged from the original. I have left the License unchanged but have implemented rebranding in most Outputs to reflect this being a fork.
+This is a fork of the awesome vCheck Daily Report. The below text is unchanged from the original.
 
 Why make a fork you ask? Well, I wanted to be the master of the changes and implement them at my own pace instead of waiting for the official maintainers to merge changes into the master branch. Plus I wanted/needed to make some changes to insert Company branding into the report.
 
-I do often check the official vCheck for new Issues and implement the fixes into my fork. You can reach out to me via the VMware Code community or twitter (@virtual_frog).
+I do often check the official vCheck for new Issues and implement the fixes into my fork. 
 
 # About
 [*Back to top*](#Title)
