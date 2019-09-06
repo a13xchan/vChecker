@@ -21,6 +21,7 @@ Function Get-ESXiVersion {
  
         # Pulled from https://kb.vmware.com/kb/2143832
         $esxiBuildVersionMappings = @{
+            "14320388"="ESXi 6.7 U3,08-20-2019"
             "13981272"="ESXi 6.7 EP 10,2019-06-20"
             "13644319"="ESXi 6.7 EP 09,2019-05-14"
             "13473784"="ESXi 6.7 EP 08,2019-04-30"
