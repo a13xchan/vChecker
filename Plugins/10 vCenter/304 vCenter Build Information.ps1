@@ -22,6 +22,7 @@ Function Get-VCVersion {
     
         # Pulled from https://kb.vmware.com/kb/2143838
         $vcenterBuildVersionMappings = @{
+            "17327517"="vCenter Server 7.0 update 1c,2020-12-17"
             "17004997"="vCenter Server 7.0 update 1a,2020-10-22"
             "16860138"="vCenter Server 7.0 Update 1,2020-10-06"
             "16749653"="vCenter Server 7.0.0d,2020-08-25"
