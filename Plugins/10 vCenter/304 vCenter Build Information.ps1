@@ -22,10 +22,15 @@ Function Get-VCVersion {
     
         # Pulled from https://kb.vmware.com/kb/2143838
         $vcenterBuildVersionMappings = @{
+	    "24091160"="vCenter Server 8.0 Update 3a,2024-07-18"	
+	    "24022515"="vCenter Server 8.0 Update 3,2024-06-25"	
+	    "23929136 "="vCenter Server 8.0 Update 2d,2024-06-17"	
 	    "21457384"="vCenter Server 8.0c,2023-03-30"	
 	    "21216066"="vCenter Server 8.0b,2023-02-14"
 	    "20920323"="vCenter Server 8.0a,2022-12-16"
 	    "20519528"="vCenter Server 8.0 GA,2022-10-11"
+	    "24026615"="vCenter Server 7.0 Update 3r,2024-06-17"
+     	    "23788036"="vCenter Server 7.0 Update 3q,2024-05-21"
 	    "21477706"="vCenter Server 7.0 update 3l,2023-03-30"
 	    "21290409"="vCenter Server 7.0 update 3k,2023-02-23"
 	    "20990077"="vCenter Server 7.0 update 3j,2022-12-22"
